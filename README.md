@@ -1,5 +1,5 @@
 # 👋🏻 Hi, About Me:
-🧔🏻‍ Soy Yeremy, tengo 26 años, apasionado por la tecnología.<br>💼 Vivo en Chile.<br>💻 Egresado de Ingeniería en Informática.<br>🎓 En constante aprendizaje.
+🧔🏻‍ Soy Yeremy, tengo 27 años, apasionado por la tecnología.<br>💼 Vivo en Chile.<br>💻 Egresado de Ingeniería en Informática.<br>🎓 En constante aprendizaje.
 
 
 ## 🌐 Socials:
